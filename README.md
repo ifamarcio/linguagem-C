@@ -1,0 +1,2 @@
+# linguagem-C
+exercicios basicos
